@@ -58,7 +58,7 @@ For interactive or development-oriented use, enter the declarative environment w
 nix-shell
 ```
 
-Once inside the environment, the dashboard can be started separately by changing into the `dashboard` directory and running:
+Once inside the environment, the dashboard can be started separately by running:
 
 ```bash
 cd dashboard
