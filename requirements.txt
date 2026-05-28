@@ -1,0 +1,12 @@
+pip
+virtualenv
+speechrecognition
+pyaudio
+paho-mqtt
+flask
+requests
+numpy
+faster-whisper
+kokoro
+soundfile
+openwakeword

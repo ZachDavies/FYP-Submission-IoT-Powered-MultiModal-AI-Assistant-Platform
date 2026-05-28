@@ -1,0 +1,22 @@
+# Directories
+clips/
+.venv/
+tests/
+wakeword-models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Backup files
+*.bak
+*.bak2
+
+# Runtime/state files
+orchestrator/device_state_cache.json
+orchestrator/sensor_state_cache.json
+orchestrator/memory.json
+
+# Logs
+*.jsonl
+dump.sh
